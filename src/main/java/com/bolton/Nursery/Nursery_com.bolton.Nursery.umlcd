@@ -1,0 +1,2745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_332swMuPEeyqwdzsT2CfGQ">
+  <modelElement href="Nursery.uml#_2XoQIMuPEeyqwdzsT2CfGQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_CowOEMuREeyqwdzsT2CfGQ" sourceAnchor="77.0,16.0" targetAnchor="47.0,56.0" enclosingItem="_CozRYMuREeyqwdzsT2CfGQ" containedItem="_8DPvIMuPEeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_N__MFMuREeyqwdzsT2CfGQ" sourceY="-57" targetX="-171" targetY="29"/>
+    <bendpoints xmi:id="_N__MFcuREeyqwdzsT2CfGQ" sourceX="171" sourceY="-57" targetY="29"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_Cow1IMuREeyqwdzsT2CfGQ" sourceAnchor="47.0,16.0" targetAnchor="47.0,56.0" enclosingItem="_CozRYMuREeyqwdzsT2CfGQ" containedItem="_8DRkUMuPEeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_N_66oMuREeyqwdzsT2CfGQ" sourceY="-57" targetX="204" targetY="29"/>
+    <bendpoints xmi:id="_N_66ocuREeyqwdzsT2CfGQ" sourceX="-204" sourceY="-57" targetY="29"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_CoxcMMuREeyqwdzsT2CfGQ" sourceAnchor="47.0,16.0" targetAnchor="47.0,56.0" enclosingItem="_CozRYMuREeyqwdzsT2CfGQ" containedItem="_8DTZgMuPEeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_N_8v0suREeyqwdzsT2CfGQ" sourceY="-57" targetX="354" targetY="29"/>
+    <bendpoints xmi:id="_N_8v08uREeyqwdzsT2CfGQ" sourceX="-354" sourceY="-57" targetY="29"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_CoxcMcuREeyqwdzsT2CfGQ" sourceAnchor="47.0,16.0" targetAnchor="47.0,56.0" enclosingItem="_CozRYMuREeyqwdzsT2CfGQ" containedItem="_8DV1wMuPEeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_OAAaMMuREeyqwdzsT2CfGQ" sourceY="-57" targetX="-366" targetY="29"/>
+    <bendpoints xmi:id="_OABBQMuREeyqwdzsT2CfGQ" sourceX="366" sourceY="-57" targetY="29"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_CoyDQMuREeyqwdzsT2CfGQ" sourceAnchor="87.0,0.0" targetAnchor="47.0,56.0" enclosingItem="_CozRYMuREeyqwdzsT2CfGQ" containedItem="_8CW-UMuPEeyqwdzsT2CfGQ"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_C58rwMuREeyqwdzsT2CfGQ" sourceAnchor="194.0,0.0" targetAnchor="47.0,56.0" enclosingItem="_8DRkUMuPEeyqwdzsT2CfGQ" containedItem="_C6BkQMuREeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_N_5sgMuREeyqwdzsT2CfGQ" sourceY="-33" targetX="-30" targetY="53"/>
+    <bendpoints xmi:id="_N_5sgcuREeyqwdzsT2CfGQ" sourceX="30" sourceY="-33" targetY="53"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C6AWIMuREeyqwdzsT2CfGQ" sourceAnchor="4.0,128.0" targetAnchor="252.0,109.0" target="_NwtZ8MuREeyqwdzsT2CfGQ" source="_C6BkQMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2-FzMcuPEeyqwdzsT2CfGQ"/>
+    <bendpoints xmi:id="_N_5FcMuREeyqwdzsT2CfGQ" sourceY="465" targetX="1877" targetY="569"/>
+    <bendpoints xmi:id="_N_5FccuREeyqwdzsT2CfGQ" sourceX="-1877" sourceY="465" targetY="569"/>
+    <stereotypes xmi:id="_C6AWIcuREeyqwdzsT2CfGQ" name="Reference">
+      <modelElement href="Nursery.uml#_2-RZYMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_C6AWIsuREeyqwdzsT2CfGQ" text="">
+      <visualProperties xmi:id="_OAC2cMuREeyqwdzsT2CfGQ" position="-120.38888888888891,-19.000000000000227"/>
+    </nameVisual>
+    <sourceRole xmi:id="_C6AWI8uREeyqwdzsT2CfGQ" aggregationKind="NONE" name="">
+      <modelElement href="Nursery.uml#_2-FzMsuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_OABoUMuREeyqwdzsT2CfGQ" position="2.0,47.44444444444446"/>
+      <visibility xmi:id="_C6AWJMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6AWJcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_C6AWJsuREeyqwdzsT2CfGQ" aggregationKind="NONE" name="cartRepository" navigable="true">
+      <modelElement href="Nursery.uml#_262R8MuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_OAC2ccuREeyqwdzsT2CfGQ" position="1.5,1.0000000000002274"/>
+      <visibility xmi:id="_C6AWJ8uREeyqwdzsT2CfGQ" label="~"/>
+      <cardinality xmi:id="_C6AWKMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_C6EAgMuREeyqwdzsT2CfGQ" sourceAnchor="386.0,0.0" targetAnchor="47.0,56.0" enclosingItem="_8DRkUMuPEeyqwdzsT2CfGQ" containedItem="_C6L8UMuREeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_N_5sg8uREeyqwdzsT2CfGQ" sourceY="-276" targetX="181" targetY="53"/>
+    <bendpoints xmi:id="_N_5shMuREeyqwdzsT2CfGQ" sourceX="-181" sourceY="-276" targetY="53"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C6LVQMuREeyqwdzsT2CfGQ" sourceAnchor="204.0,0.0" targetAnchor="452.0,76.0" target="_NwxEUMuREeyqwdzsT2CfGQ" source="_C6L8UMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2-RZYcuPEeyqwdzsT2CfGQ"/>
+    <bendpoints xmi:id="_N_5sgsuREeyqwdzsT2CfGQ" sourceY="-85" targetX="493"/>
+    <stereotypes xmi:id="_C6LVQcuREeyqwdzsT2CfGQ" name="Reference">
+      <modelElement href="Nursery.uml#_2-mJgMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_C6LVQsuREeyqwdzsT2CfGQ" text="">
+      <visualProperties xmi:id="_OAHu8MuREeyqwdzsT2CfGQ" position="-264.875,1.9999999999999432"/>
+    </nameVisual>
+    <sourceRole xmi:id="_C6LVQ8uREeyqwdzsT2CfGQ" aggregationKind="NONE" name="">
+      <modelElement href="Nursery.uml#_2-RZYsuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_OAFSsMuREeyqwdzsT2CfGQ" position="-15.5,-83.0"/>
+      <visibility xmi:id="_C6LVRMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6LVRcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_C6LVRsuREeyqwdzsT2CfGQ" aggregationKind="NONE" name="plantRepository" navigable="true">
+      <modelElement href="Nursery.uml#_264HIsuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_OAI9EMuREeyqwdzsT2CfGQ" position="99.1875,-47.00000000000006"/>
+      <visibility xmi:id="_C6LVR8uREeyqwdzsT2CfGQ" label="~"/>
+      <cardinality xmi:id="_C6LVSMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_C6OYkMuREeyqwdzsT2CfGQ" sourceAnchor="182.0,0.0" targetAnchor="47.0,56.0" enclosingItem="_8DRkUMuPEeyqwdzsT2CfGQ" containedItem="_C6SC8MuREeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_N_6Tk8uREeyqwdzsT2CfGQ" sourceY="-30" targetX="416" targetY="53"/>
+    <bendpoints xmi:id="_N_6TlMuREeyqwdzsT2CfGQ" sourceX="-416" sourceY="-30" targetY="53"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_C6Rb4MuREeyqwdzsT2CfGQ" sourceAnchor="212.0,0.0" targetAnchor="0.0,22.0" target="_NwohcMuREeyqwdzsT2CfGQ" source="_C6SC8MuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2-mJgcuPEeyqwdzsT2CfGQ"/>
+    <bendpoints xmi:id="_N_6TkMuREeyqwdzsT2CfGQ" sourceY="-340" targetX="1215" targetY="-336"/>
+    <bendpoints xmi:id="_N_6TkcuREeyqwdzsT2CfGQ" sourceX="-1407" sourceY="-340" targetX="-192" targetY="-336"/>
+    <bendpoints xmi:id="_N_6TksuREeyqwdzsT2CfGQ" sourceX="-1407" sourceY="-4" targetX="-192"/>
+    <stereotypes xmi:id="_C6Rb4cuREeyqwdzsT2CfGQ" name="Reference">
+      <modelElement href="Nursery.uml#_2-yWwMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_C6Rb4suREeyqwdzsT2CfGQ" text="">
+      <visualProperties xmi:id="_OAMAYMuREeyqwdzsT2CfGQ" position="0.7500000000002274,277.99999999999943"/>
+    </nameVisual>
+    <sourceRole xmi:id="_C6Rb48uREeyqwdzsT2CfGQ" aggregationKind="NONE" name="">
+      <modelElement href="Nursery.uml#_2-mJgsuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_OAKyQMuREeyqwdzsT2CfGQ" position="-17.0,-46.0"/>
+      <visibility xmi:id="_C6Rb5MuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6Rb5cuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_C6Rb5suREeyqwdzsT2CfGQ" aggregationKind="NONE" name="userRepository" navigable="true">
+      <modelElement href="Nursery.uml#_2658UMuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_OAMAYcuREeyqwdzsT2CfGQ" position="-94.5,1.9999999999997158"/>
+      <visibility xmi:id="_C6Rb58uREeyqwdzsT2CfGQ" label="~"/>
+      <cardinality xmi:id="_C6Rb6MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_ELlSwMuREeyqwdzsT2CfGQ" sourceAnchor="151.0,0.0" targetAnchor="204.0,204.0" target="_C6L8UMuREeyqwdzsT2CfGQ" source="_EL1KYMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_28tTIMuPEeyqwdzsT2CfGQ"/>
+    <stereotypes xmi:id="_ELoWEcuREeyqwdzsT2CfGQ" name="Reference">
+      <modelElement href="Nursery.uml#_286HcMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_ELnvAMuREeyqwdzsT2CfGQ" text="">
+      <visualProperties xmi:id="_E0shMMuREeyqwdzsT2CfGQ" position="2.0,0.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_ELnvAcuREeyqwdzsT2CfGQ" aggregationKind="NONE" name="">
+      <modelElement href="Nursery.uml#_28tTIcuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_E0r6JMuREeyqwdzsT2CfGQ" position="-17.0,-46.0"/>
+      <visibility xmi:id="_ELwR4cuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_ELwR4MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_ELoWEMuREeyqwdzsT2CfGQ" aggregationKind="NONE" name="plantService" navigable="true">
+      <modelElement href="Nursery.uml#_26HSIMuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_E0tIQMuREeyqwdzsT2CfGQ" position="2.0,1.0"/>
+      <visibility xmi:id="_ELw48cuREeyqwdzsT2CfGQ" label="~"/>
+      <cardinality xmi:id="_ELw48MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_ELl50MuREeyqwdzsT2CfGQ" sourceAnchor="557.0,0.0" targetAnchor="171.0,90.0" target="_C6SC8MuREeyqwdzsT2CfGQ" source="_EL1KYMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_286ugMuPEeyqwdzsT2CfGQ"/>
+    <stereotypes xmi:id="_ELoWFcuREeyqwdzsT2CfGQ" name="Reference">
+      <modelElement href="Nursery.uml#_29FGkMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_ELoWEsuREeyqwdzsT2CfGQ" text="">
+      <visualProperties xmi:id="_E0u9cMuREeyqwdzsT2CfGQ" position="-39.0,9.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_ELoWE8uREeyqwdzsT2CfGQ" aggregationKind="NONE" name="">
+      <modelElement href="Nursery.uml#_286ugcuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_E0uWYMuREeyqwdzsT2CfGQ" position="-17.0,-46.0"/>
+      <visibility xmi:id="_ELw49MuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_ELw488uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_ELoWFMuREeyqwdzsT2CfGQ" aggregationKind="NONE" name="userService" navigable="true">
+      <modelElement href="Nursery.uml#_26IgQsuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_E0u9ccuREeyqwdzsT2CfGQ" position="2.0,0.9999999999999432"/>
+      <visibility xmi:id="_ELw49suREeyqwdzsT2CfGQ" label="~"/>
+      <cardinality xmi:id="_ELw49cuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_ELnH8MuREeyqwdzsT2CfGQ" sourceAnchor="371.0,0.0" targetAnchor="390.0,77.0" target="_C6BkQMuREeyqwdzsT2CfGQ" source="_EL1KYMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_29FGkcuPEeyqwdzsT2CfGQ"/>
+    <bendpoints xmi:id="_N_8IwMuREeyqwdzsT2CfGQ" sourceY="-501" targetX="53"/>
+    <stereotypes xmi:id="_ELo9IcuREeyqwdzsT2CfGQ" name="Reference">
+      <modelElement href="Nursery.uml#_29PeoMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_ELoWFsuREeyqwdzsT2CfGQ" text="">
+      <visualProperties xmi:id="_E0xZsMuREeyqwdzsT2CfGQ" position="2.0,104.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_ELoWF8uREeyqwdzsT2CfGQ" aggregationKind="NONE" name="">
+      <modelElement href="Nursery.uml#_29FGksuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_E0wyoMuREeyqwdzsT2CfGQ" position="-17.0,-46.0"/>
+      <visibility xmi:id="_ELxgAsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_ELxgAcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_ELo9IMuREeyqwdzsT2CfGQ" aggregationKind="NONE" name="cartService" navigable="true">
+      <modelElement href="Nursery.uml#_26JuYsuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_E0yAwMuREeyqwdzsT2CfGQ" position="55.0,46.0"/>
+      <visibility xmi:id="_ELxgBMuREeyqwdzsT2CfGQ" label="~"/>
+      <cardinality xmi:id="_ELxgA8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_ELpkMMuREeyqwdzsT2CfGQ" sourceAnchor="572.0,229.0" targetAnchor="92.0,29.0" enclosingItem="_8DTZgMuPEeyqwdzsT2CfGQ" containedItem="_EL1KYMuREeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_N_8v0MuREeyqwdzsT2CfGQ" sourceX="193" targetX="418" targetY="920"/>
+    <bendpoints xmi:id="_N_8v0cuREeyqwdzsT2CfGQ" sourceX="193" sourceY="-920" targetX="418"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_MTPWYMuREeyqwdzsT2CfGQ" sourceAnchor="0.0,236.0" targetAnchor="598.0,250.0" target="_MTd_4MuREeyqwdzsT2CfGQ" source="_MT0lMMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_29vN4MuPEeyqwdzsT2CfGQ"/>
+    <stereotypes xmi:id="_MTWEEcuREeyqwdzsT2CfGQ" name="Reference">
+      <modelElement href="Nursery.uml#_2960EMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_MTVdAMuREeyqwdzsT2CfGQ" text="">
+      <visualProperties xmi:id="_M4qXoMuREeyqwdzsT2CfGQ" position="14.0,-19.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_MTVdAcuREeyqwdzsT2CfGQ" aggregationKind="NONE" name="">
+      <modelElement href="Nursery.uml#_29vN4cuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_M4pJgMuREeyqwdzsT2CfGQ" position="-16.0,2.0"/>
+      <visibility xmi:id="_MTZHYcuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTZHYMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_MTWEEMuREeyqwdzsT2CfGQ" aggregationKind="NONE" name="cart" navigable="true">
+      <modelElement href="Nursery.uml#_26uWIMuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_M4q-sMuREeyqwdzsT2CfGQ" position="68.0,-86.0"/>
+      <stereotypes xmi:id="_MTZHZMuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26uWIcuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MTZucMuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_26u9MMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTZHY8uREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTZHYsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_MTPWYcuREeyqwdzsT2CfGQ" sourceAnchor="236.0,348.0" targetAnchor="299.0,500.0" target="_MTd_4MuREeyqwdzsT2CfGQ" source="_MUCAkMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2960EcuPEeyqwdzsT2CfGQ"/>
+    <bendpoints xmi:id="_N_-lBMuREeyqwdzsT2CfGQ" sourceY="315" targetX="1330" targetY="222"/>
+    <bendpoints xmi:id="_N_-lBcuREeyqwdzsT2CfGQ" sourceX="-1330" sourceY="315" targetY="222"/>
+    <stereotypes xmi:id="_MTWEFcuREeyqwdzsT2CfGQ" name="Reference">
+      <modelElement href="Nursery.uml#_2-FzMMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_MTWEEsuREeyqwdzsT2CfGQ" text="">
+      <visualProperties xmi:id="_M4sz4MuREeyqwdzsT2CfGQ" position="-90.0,-19.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_MTWEE8uREeyqwdzsT2CfGQ" aggregationKind="NONE" name="">
+      <modelElement href="Nursery.uml#_2960EsuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_M4rlwMuREeyqwdzsT2CfGQ" position="2.0,1.0"/>
+      <visibility xmi:id="_MTZucsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTZuccuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_MTWEFMuREeyqwdzsT2CfGQ" aggregationKind="NONE" name="cart" navigable="true">
+      <modelElement href="Nursery.uml#_260cwMuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_M4ta8MuREeyqwdzsT2CfGQ" position="2.0,1.0000000000002274"/>
+      <stereotypes xmi:id="_MTaVgMuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_260cwcuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MTaVgcuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_261D0MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTZudMuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTZuc8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_MTP9cMuREeyqwdzsT2CfGQ" sourceAnchor="598.0,220.0" targetAnchor="0.0,206.0" target="_MT0lMMuREeyqwdzsT2CfGQ" source="_MTd_4MuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_29WMUMuPEeyqwdzsT2CfGQ"/>
+    <stereotypes xmi:id="_MTWrIsuREeyqwdzsT2CfGQ" name="Reference">
+      <modelElement href="Nursery.uml#_29hLcMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_MTWEFsuREeyqwdzsT2CfGQ" text="">
+      <visualProperties xmi:id="_M4jp8MuREeyqwdzsT2CfGQ" position="-51.0,2.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_MTWrIMuREeyqwdzsT2CfGQ" aggregationKind="NONE" name="">
+      <modelElement href="Nursery.uml#_29WMUcuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_M4ib0MuREeyqwdzsT2CfGQ" position="1.0,-47.0"/>
+      <visibility xmi:id="_MTaVg8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTaVgsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_MTWrIcuREeyqwdzsT2CfGQ" aggregationKind="NONE" name="plant" navigable="true">
+      <modelElement href="Nursery.uml#_26ZmAcuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_M4jp8cuREeyqwdzsT2CfGQ" position="-103.0,41.0"/>
+      <visibility xmi:id="_MTaVhcuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTaVhMuREeyqwdzsT2CfGQ" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_MTP9ccuREeyqwdzsT2CfGQ" sourceAnchor="598.0,472.0" targetAnchor="206.0,348.0" target="_MUCAkMuREeyqwdzsT2CfGQ" source="_MTd_4MuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_29hLccuPEeyqwdzsT2CfGQ"/>
+    <bendpoints xmi:id="_N_9W4MuREeyqwdzsT2CfGQ" sourceX="1001" targetY="65"/>
+    <stereotypes xmi:id="_MTXSMcuREeyqwdzsT2CfGQ" name="Reference">
+      <modelElement href="Nursery.uml#_29um0MuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <nameVisual xmi:id="_MTWrI8uREeyqwdzsT2CfGQ" text="">
+      <visualProperties xmi:id="_M4n7YMuREeyqwdzsT2CfGQ" position="-38.0,-58.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_MTWrJMuREeyqwdzsT2CfGQ" aggregationKind="NONE" name="">
+      <modelElement href="Nursery.uml#_29hLcsuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_M4lfIMuREeyqwdzsT2CfGQ" position="1.0,-47.0"/>
+      <visibility xmi:id="_MTa8k8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTa8ksuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_MTXSMMuREeyqwdzsT2CfGQ" aggregationKind="NONE" name="users" navigable="true">
+      <modelElement href="Nursery.uml#_26bbMsuPEeyqwdzsT2CfGQ"/>
+      <visualProperties xmi:id="_M4n7YcuREeyqwdzsT2CfGQ" position="-248.0,67.0"/>
+      <visibility xmi:id="_MTa8lcuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTa8lMuREeyqwdzsT2CfGQ" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_MTP9csuREeyqwdzsT2CfGQ" sourceAnchor="0.0,257.0" targetAnchor="47.0,56.0" enclosingItem="_8DPvIMuPEeyqwdzsT2CfGQ" containedItem="_MTd_4MuREeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_N_9W4cuREeyqwdzsT2CfGQ" sourceX="-30" targetX="1049" targetY="214"/>
+    <bendpoints xmi:id="_N_9W4suREeyqwdzsT2CfGQ" sourceX="-30" sourceY="923" targetX="1049" targetY="1137"/>
+    <bendpoints xmi:id="_N_998MuREeyqwdzsT2CfGQ" sourceX="-1079" sourceY="923" targetY="1137"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_MThDMMuREeyqwdzsT2CfGQ" sourceAnchor="306.0,0.0" targetAnchor="47.0,16.0" enclosingItem="_8DPvIMuPEeyqwdzsT2CfGQ" containedItem="_MTnJ0MuREeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_N_998cuREeyqwdzsT2CfGQ" sourceY="-198" targetX="-1071" targetY="-187"/>
+    <bendpoints xmi:id="_N_998suREeyqwdzsT2CfGQ" sourceX="1071" sourceY="-198" targetY="-187"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_MTqNIMuREeyqwdzsT2CfGQ" sourceAnchor="287.0,0.0" targetAnchor="47.0,56.0" enclosingItem="_8DPvIMuPEeyqwdzsT2CfGQ" containedItem="_MT0lMMuREeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_N_-lAMuREeyqwdzsT2CfGQ" sourceY="-110" targetX="2068" targetY="-139"/>
+    <bendpoints xmi:id="_N_-lAcuREeyqwdzsT2CfGQ" sourceX="-1019" sourceY="-110" targetX="1049" targetY="-139"/>
+    <bendpoints xmi:id="_N_-lAsuREeyqwdzsT2CfGQ" sourceX="-1019" sourceY="1166" targetX="1049" targetY="1137"/>
+    <bendpoints xmi:id="_N_-lA8uREeyqwdzsT2CfGQ" sourceX="-2068" sourceY="1166" targetY="1137"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_MT4PkMuREeyqwdzsT2CfGQ" sourceAnchor="206.0,0.0" targetAnchor="47.0,56.0" enclosingItem="_8DPvIMuPEeyqwdzsT2CfGQ" containedItem="_MUCAkMuREeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_N__MEMuREeyqwdzsT2CfGQ" sourceY="-273" targetX="2678" targetY="-257"/>
+    <bendpoints xmi:id="_N__MEcuREeyqwdzsT2CfGQ" sourceX="-1629" sourceY="-273" targetX="1049" targetY="-257"/>
+    <bendpoints xmi:id="_N__MEsuREeyqwdzsT2CfGQ" sourceX="-1629" sourceY="1121" targetX="1049" targetY="1137"/>
+    <bendpoints xmi:id="_N__ME8uREeyqwdzsT2CfGQ" sourceX="-2678" sourceY="1121" targetY="1137"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_Nwn6YMuREeyqwdzsT2CfGQ" sourceAnchor="48.0,0.0" targetAnchor="47.0,58.0" enclosingItem="_8DV1wMuPEeyqwdzsT2CfGQ" containedItem="_NwohcMuREeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_N__zIMuREeyqwdzsT2CfGQ" sourceY="-28" targetX="-151" targetY="27"/>
+    <bendpoints xmi:id="_N__zIcuREeyqwdzsT2CfGQ" sourceX="151" sourceY="-28" targetY="27"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_NwpvkMuREeyqwdzsT2CfGQ" sourceAnchor="222.0,0.0" targetAnchor="17.0,0.0" enclosingItem="_8DV1wMuPEeyqwdzsT2CfGQ" containedItem="_NwtZ8MuREeyqwdzsT2CfGQ">
+    <bendpoints xmi:id="_N__zIsuREeyqwdzsT2CfGQ" sourceY="-318" targetX="-1527" targetY="-261"/>
+    <bendpoints xmi:id="_N__zI8uREeyqwdzsT2CfGQ" sourceX="1527" sourceY="-318" targetY="-261"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ContainmentVisual" xmi:id="_NwvPIMuREeyqwdzsT2CfGQ" sourceAnchor="376.0,0.0" targetAnchor="47.0,58.0" enclosingItem="_8DV1wMuPEeyqwdzsT2CfGQ" containedItem="_NwxEUMuREeyqwdzsT2CfGQ"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_8CW-UMuPEeyqwdzsT2CfGQ" containment="_CoyDQMuREeyqwdzsT2CfGQ" name="NurseryApplication" package="_CozRYMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2mtN8MuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_8CW-UcuPEeyqwdzsT2CfGQ" position="50.0,50.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_8CW-UsuPEeyqwdzsT2CfGQ" name="LegacyStyledElement">
+      <modelElement href="Nursery.uml#_2mvqMMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <stereotypes xmi:id="_8CW-U8uPEeyqwdzsT2CfGQ" name="Annotations">
+      <modelElement href="Nursery.uml#_2m0isMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <visibility xmi:id="_8CW-VMuPEeyqwdzsT2CfGQ" label="+"/>
+    <operations xmi:id="_8CXlYMuPEeyqwdzsT2CfGQ" name="main" staticOperation="true">
+      <modelElement href="Nursery.uml#_2mwRQMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_8CXlYcuPEeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2myGcMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_8CXlYsuPEeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_8CXlY8uPEeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_8CXlZMuPEeyqwdzsT2CfGQ" name="args">
+        <modelElement href="Nursery.uml#_2mwRQcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_8CXlZcuPEeyqwdzsT2CfGQ" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_8CXlZsuPEeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_C6BkQMuREeyqwdzsT2CfGQ" containment="_C58rwMuREeyqwdzsT2CfGQ" name="CartService" package="_8DRkUMuPEeyqwdzsT2CfGQ" associationsIn="_ELnH8MuREeyqwdzsT2CfGQ" associationsOut="_C6AWIMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2qJjgMuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_C6BkQcuREeyqwdzsT2CfGQ" position="117.0,205.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_C6BkQsuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+      <modelElement href="Nursery.uml#_2qLYsMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <stereotypes xmi:id="_C6BkQ8uREeyqwdzsT2CfGQ" name="Annotations">
+      <modelElement href="Nursery.uml#_2qgv4MuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <visibility xmi:id="_C6BkRMuREeyqwdzsT2CfGQ" label="+"/>
+    <attributes xmi:id="_C6BkRcuREeyqwdzsT2CfGQ" name="cartRepository">
+      <modelElement href="Nursery.uml#_262R8MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6BkRsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_264HIMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6BkR8uREeyqwdzsT2CfGQ" label="~"/>
+      <cardinality xmi:id="_C6BkSMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_C6BkScuREeyqwdzsT2CfGQ" name="CartRepository">
+        <modelElement href="Nursery.uml#_2m40IMuPEeyqwdzsT2CfGQ"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_C6BkSsuREeyqwdzsT2CfGQ" name="findCartDetails">
+      <modelElement href="Nursery.uml#_2qL_wMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6BkS8uREeyqwdzsT2CfGQ" name="Generics">
+        <modelElement href="Nursery.uml#_2qb3YMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_C6BkTMuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2qcecMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6BkTcuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6BkTsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_C6BkT8uREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_25gOIMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_C6BkUMuREeyqwdzsT2CfGQ" name="Iterable">
+          <modelElement href="Nursery.uml#_248NcMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_C6BkUcuREeyqwdzsT2CfGQ" name="searchUserName">
+        <modelElement href="Nursery.uml#_2qL_wcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6BkUsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6BkU8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_C6BkVMuREeyqwdzsT2CfGQ" name="checkIfProductExists">
+      <modelElement href="Nursery.uml#_2qdskMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6BkVcuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2qfhwMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6BkVsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6BkV8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_C6BkWMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_23YuQMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_C6BkWcuREeyqwdzsT2CfGQ" name="Cart">
+          <modelElement href="Nursery.uml#_2jI8kMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_C6BkWsuREeyqwdzsT2CfGQ" name="cartUser">
+        <modelElement href="Nursery.uml#_2qdskcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6BkW8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6BkXMuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_C6BkXcuREeyqwdzsT2CfGQ" name="cPid">
+        <modelElement href="Nursery.uml#_2qeToMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6BkXsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6BkX8uREeyqwdzsT2CfGQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_C6BkYMuREeyqwdzsT2CfGQ" name="storeCart">
+      <modelElement href="Nursery.uml#_23XgIMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6BkYcuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_23YHMMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6BkYsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6BkY8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_C6BkZMuREeyqwdzsT2CfGQ" name="cart">
+        <modelElement href="Nursery.uml#_23XgIcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6BkZcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6BkZsuREeyqwdzsT2CfGQ" name="Cart">
+          <modelElement href="Nursery.uml#_2jI8kMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_C6BkZ8uREeyqwdzsT2CfGQ" name="updateById">
+      <modelElement href="Nursery.uml#_253agMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6BkaMuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2586EMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6CLUMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6CLUcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_C6CLUsuREeyqwdzsT2CfGQ" name="id">
+        <modelElement href="Nursery.uml#_253agcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6CLU8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6CLVMuREeyqwdzsT2CfGQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_C6CLVcuREeyqwdzsT2CfGQ" name="cQuantity">
+        <modelElement href="Nursery.uml#_254BkMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6CLVsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6CLV8uREeyqwdzsT2CfGQ" name="Double">
+          <modelElement href="Nursery.uml#_25g1MMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_C6CLWMuREeyqwdzsT2CfGQ" name="cPrice">
+        <modelElement href="Nursery.uml#_258TAMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6CLWcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6CLWsuREeyqwdzsT2CfGQ" name="Double">
+          <modelElement href="Nursery.uml#_25g1MMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_C6L8UMuREeyqwdzsT2CfGQ" containment="_C6EAgMuREeyqwdzsT2CfGQ" name="PlantService" package="_8DRkUMuPEeyqwdzsT2CfGQ" associationsIn="_ELlSwMuREeyqwdzsT2CfGQ" associationsOut="_C6LVQMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2qloYMuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_C6L8UcuREeyqwdzsT2CfGQ" position="136.0,448.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_C6L8UsuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+      <modelElement href="Nursery.uml#_2qm2gMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <stereotypes xmi:id="_C6L8U8uREeyqwdzsT2CfGQ" name="Annotations">
+      <modelElement href="Nursery.uml#_2rwGAMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <visibility xmi:id="_C6L8VMuREeyqwdzsT2CfGQ" label="+"/>
+    <attributes xmi:id="_C6L8VcuREeyqwdzsT2CfGQ" name="plantRepository">
+      <modelElement href="Nursery.uml#_264HIsuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6L8VsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_265VQMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6L8V8uREeyqwdzsT2CfGQ" label="~"/>
+      <cardinality xmi:id="_C6L8WMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_C6L8WcuREeyqwdzsT2CfGQ" name="PlantRepository">
+        <modelElement href="Nursery.uml#_2ozfsMuPEeyqwdzsT2CfGQ"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_C6L8WsuREeyqwdzsT2CfGQ" name="displayPlants">
+      <modelElement href="Nursery.uml#_2qndkMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6L8W8uREeyqwdzsT2CfGQ" name="Generics">
+        <modelElement href="Nursery.uml#_2rBGMMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_C6L8XMuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2rBtQMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6L8XcuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6L8XsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_C6L8X8uREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_259hIMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_C6L8YMuREeyqwdzsT2CfGQ" name="Iterable">
+          <modelElement href="Nursery.uml#_248NcMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_C6L8YcuREeyqwdzsT2CfGQ" name="findByNameIgnoreCase">
+      <modelElement href="Nursery.uml#_2rDicMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6L8YsuREeyqwdzsT2CfGQ" name="Generics">
+        <modelElement href="Nursery.uml#_2rUBIMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_C6L8Y8uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2rUoMMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6L8ZMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6L8ZcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_C6L8ZsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_25-IMMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_C6L8Z8uREeyqwdzsT2CfGQ" name="Iterable">
+          <modelElement href="Nursery.uml#_248NcMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_C6L8aMuREeyqwdzsT2CfGQ" name="pName">
+        <modelElement href="Nursery.uml#_2rDiccuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6L8acuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6L8asuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_C6L8a8uREeyqwdzsT2CfGQ" name="findByCategory">
+      <modelElement href="Nursery.uml#_2rV2UMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6L8bMuREeyqwdzsT2CfGQ" name="Generics">
+        <modelElement href="Nursery.uml#_2rlt8MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_C6L8bcuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2rmVAMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6L8bsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6L8b8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_C6L8cMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_25-vQMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_C6L8ccuREeyqwdzsT2CfGQ" name="Iterable">
+          <modelElement href="Nursery.uml#_248NcMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_C6L8csuREeyqwdzsT2CfGQ" name="searchPlantCategory">
+        <modelElement href="Nursery.uml#_2rV2UcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6L8c8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6L8dMuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_C6L8dcuREeyqwdzsT2CfGQ" name="viewById">
+      <modelElement href="Nursery.uml#_2rm8EMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6L8dsuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2roxQMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6L8d8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6L8eMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_C6L8ecuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_23c_sMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_C6L8esuREeyqwdzsT2CfGQ" name="Plant">
+          <modelElement href="Nursery.uml#_2lPOUMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_C6L8e8uREeyqwdzsT2CfGQ" name="id">
+        <modelElement href="Nursery.uml#_2roKMMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6L8fMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6L8fcuREeyqwdzsT2CfGQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_C6L8fsuREeyqwdzsT2CfGQ" name="deleteById">
+      <modelElement href="Nursery.uml#_2roxQcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6L8f8uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2rsboMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6L8gMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6L8gcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_C6L8gsuREeyqwdzsT2CfGQ" name="id">
+        <modelElement href="Nursery.uml#_2rpYUMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6L8g8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6L8hMuREeyqwdzsT2CfGQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_C6L8hcuREeyqwdzsT2CfGQ" name="updateById">
+      <modelElement href="Nursery.uml#_2rtCsMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6L8hsuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2ruQ0MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6L8h8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6L8iMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_C6L8icuREeyqwdzsT2CfGQ" name="id">
+        <modelElement href="Nursery.uml#_2rtCscuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6L8isuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6L8i8uREeyqwdzsT2CfGQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_C6L8jMuREeyqwdzsT2CfGQ" name="pName">
+        <modelElement href="Nursery.uml#_2rtpwMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6L8jcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6L8jsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_C6L8j8uREeyqwdzsT2CfGQ" name="updateAllById">
+      <modelElement href="Nursery.uml#_2ru34MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6L8kMuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2rve8MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6L8kcuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6L8ksuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_C6L8k8uREeyqwdzsT2CfGQ" name="uppid">
+        <modelElement href="Nursery.uml#_2ru34cuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6L8lMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6L8lcuREeyqwdzsT2CfGQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_C6L8lsuREeyqwdzsT2CfGQ" name="unname">
+        <modelElement href="Nursery.uml#_2ru34suPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6L8l8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6L8mMuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_C6L8mcuREeyqwdzsT2CfGQ" name="uddesc">
+        <modelElement href="Nursery.uml#_2ru348uPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6L8msuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6L8m8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_C6L8nMuREeyqwdzsT2CfGQ" name="storePlant">
+      <modelElement href="Nursery.uml#_23bxkMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6L8ncuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_23cYoMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6L8nsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6L8n8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_C6L8oMuREeyqwdzsT2CfGQ" name="plant">
+        <modelElement href="Nursery.uml#_23bxkcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6L8ocuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6L8osuREeyqwdzsT2CfGQ" name="Plant">
+          <modelElement href="Nursery.uml#_2lPOUMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_C6SC8MuREeyqwdzsT2CfGQ" containment="_C6OYkMuREeyqwdzsT2CfGQ" name="UserService" package="_8DRkUMuPEeyqwdzsT2CfGQ" associationsIn="_ELl50MuREeyqwdzsT2CfGQ" associationsOut="_C6Rb4MuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2r0XcMuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_C6SC8cuREeyqwdzsT2CfGQ" position="575.0,202.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_C6SC8suREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+      <modelElement href="Nursery.uml#_2r1lkMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <stereotypes xmi:id="_C6SC88uREeyqwdzsT2CfGQ" name="Annotations">
+      <modelElement href="Nursery.uml#_2r4B0MuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <visibility xmi:id="_C6SC9MuREeyqwdzsT2CfGQ" label="+"/>
+    <attributes xmi:id="_C6SC9cuREeyqwdzsT2CfGQ" name="userRepository">
+      <modelElement href="Nursery.uml#_2658UMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6SC9suREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_266jYMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6SC98uREeyqwdzsT2CfGQ" label="~"/>
+      <cardinality xmi:id="_C6SC-MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_C6SC-cuREeyqwdzsT2CfGQ" name="UserRepository">
+        <modelElement href="Nursery.uml#_2mnuYMuPEeyqwdzsT2CfGQ"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_C6SC-suREeyqwdzsT2CfGQ" name="validateUser">
+      <modelElement href="Nursery.uml#_2r2MoMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6SC-8uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2r3awMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6SC_MuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6SC_cuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_C6SC_suREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2r2zscuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_C6SC_8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_C6SDAMuREeyqwdzsT2CfGQ" name="uEmail">
+        <modelElement href="Nursery.uml#_2r2MocuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6SDAcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6SDAsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_C6SDA8uREeyqwdzsT2CfGQ" name="uPassword">
+        <modelElement href="Nursery.uml#_2r2zsMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6SDBMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6SDBcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_C6SDBsuREeyqwdzsT2CfGQ" name="storeUser">
+      <modelElement href="Nursery.uml#_23fb8MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_C6SDB8uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_23gDAcuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_C6SDCMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_C6SDCcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_C6SDCsuREeyqwdzsT2CfGQ" name="nUser">
+        <modelElement href="Nursery.uml#_23gDAMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_C6SDC8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_C6SDDMuREeyqwdzsT2CfGQ" name="Users">
+          <modelElement href="Nursery.uml#_2pmJ4MuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_8DRkUMuPEeyqwdzsT2CfGQ" containment="_Cow1IMuREeyqwdzsT2CfGQ" containments="_C58rwMuREeyqwdzsT2CfGQ _C6EAgMuREeyqwdzsT2CfGQ _C6OYkMuREeyqwdzsT2CfGQ" classes="_C6BkQMuREeyqwdzsT2CfGQ _C6L8UMuREeyqwdzsT2CfGQ _C6SC8MuREeyqwdzsT2CfGQ" name="Service" nestingPackage="_CozRYMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2X6kAMuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_8DRkUcuPEeyqwdzsT2CfGQ" position="294.0,63.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_EL1KYMuREeyqwdzsT2CfGQ" containment="_ELpkMMuREeyqwdzsT2CfGQ" name="NurseryController" package="_8DTZgMuPEeyqwdzsT2CfGQ" associationsOut="_ELlSwMuREeyqwdzsT2CfGQ _ELl50MuREeyqwdzsT2CfGQ _ELnH8MuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2g0BUMuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_EL1xcMuREeyqwdzsT2CfGQ" position="189.0,783.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_EL1xccuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+      <modelElement href="Nursery.uml#_2hCq0MuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <stereotypes xmi:id="_EL1xcsuREeyqwdzsT2CfGQ" name="Annotations">
+      <modelElement href="Nursery.uml#_2ie1QMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <visibility xmi:id="_EL1xc8uREeyqwdzsT2CfGQ" label="+"/>
+    <attributes xmi:id="_EL1xdMuREeyqwdzsT2CfGQ" name="plantService">
+      <modelElement href="Nursery.uml#_26HSIMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1xdcuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_26IgQMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1xdsuREeyqwdzsT2CfGQ" label="~"/>
+      <cardinality xmi:id="_EL1xd8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_EL1xeMuREeyqwdzsT2CfGQ" name="PlantService">
+        <modelElement href="Nursery.uml#_2qloYMuPEeyqwdzsT2CfGQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_EL1xecuREeyqwdzsT2CfGQ" name="userService">
+      <modelElement href="Nursery.uml#_26IgQsuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1xesuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_26JuYMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1xe8uREeyqwdzsT2CfGQ" label="~"/>
+      <cardinality xmi:id="_EL1xfMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_EL1xfcuREeyqwdzsT2CfGQ" name="UserService">
+        <modelElement href="Nursery.uml#_2r0XcMuPEeyqwdzsT2CfGQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_EL1xfsuREeyqwdzsT2CfGQ" name="cartService">
+      <modelElement href="Nursery.uml#_26JuYsuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1xf8uREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_26K8gMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1xgMuREeyqwdzsT2CfGQ" label="~"/>
+      <cardinality xmi:id="_EL1xgcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_EL1xgsuREeyqwdzsT2CfGQ" name="CartService">
+        <modelElement href="Nursery.uml#_2qJjgMuPEeyqwdzsT2CfGQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_EL1xg8uREeyqwdzsT2CfGQ" name="userName">
+      <modelElement href="Nursery.uml#_26K8gsuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_EL1xhMuREeyqwdzsT2CfGQ" label="~"/>
+      <cardinality xmi:id="_EL1xhcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_EL1xhsuREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_EL1xh8uREeyqwdzsT2CfGQ" name="home">
+      <modelElement href="Nursery.uml#_2hKmoMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1xiMuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2hO4EMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1xicuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1xisuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1xi8uREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2hNC4MuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1xjMuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_EL1xjcuREeyqwdzsT2CfGQ" name="addPlant">
+      <modelElement href="Nursery.uml#_2hRUUMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1xjsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2hU-sMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1xj8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1xkMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1xkcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2hSicMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1xksuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1xk8uREeyqwdzsT2CfGQ" name="pname">
+        <modelElement href="Nursery.uml#_2hRUUcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1xlMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1xlcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1xlsuREeyqwdzsT2CfGQ" name="pdesc">
+        <modelElement href="Nursery.uml#_2hRUUsuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1xl8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1xmMuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1xmcuREeyqwdzsT2CfGQ" name="qty">
+        <modelElement href="Nursery.uml#_2hR7YMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1xmsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1xm8uREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1xnMuREeyqwdzsT2CfGQ" name="prc">
+        <modelElement href="Nursery.uml#_2hR7YcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1xncuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1xnsuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1xn8uREeyqwdzsT2CfGQ" name="pcateg">
+        <modelElement href="Nursery.uml#_2hR7YsuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1xoMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1xocuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_EL1xosuREeyqwdzsT2CfGQ" name="ViewAddPlant">
+      <modelElement href="Nursery.uml#_2hWM0MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1xo8uREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2hXa8MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1xpMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1xpcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1xpsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2hWz4MuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1xp8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_EL1xqMuREeyqwdzsT2CfGQ" name="ViewLoginPage">
+      <modelElement href="Nursery.uml#_2hYCAsuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1xqcuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2hZ3MMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1xqsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1xq8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1xrMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2hYpEMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1xrcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_EL1xrsuREeyqwdzsT2CfGQ" name="ViewSearchPage">
+      <modelElement href="Nursery.uml#_2haeQMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1xr8uREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2hbsYMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1xsMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1xscuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1xssuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2hbFUMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1xs8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_EL1xtMuREeyqwdzsT2CfGQ" name="Register">
+      <modelElement href="Nursery.uml#_2hcTccuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1xtcuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2hdhkMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1xtsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1xt8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1xuMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2hc6gMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1xucuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_EL1xusuREeyqwdzsT2CfGQ" name="ModifyPlantPage">
+      <modelElement href="Nursery.uml#_2heIoMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1xu8uREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2hfWwMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1xvMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1xvcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1xvsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2hevsMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1xv8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_EL1xwMuREeyqwdzsT2CfGQ" name="userRegister">
+      <modelElement href="Nursery.uml#_2hnSkMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1xwcuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2hy4wMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1xwsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1xw8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1xxMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2hsyIMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1xxcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1xxsuREeyqwdzsT2CfGQ" name="uname">
+        <modelElement href="Nursery.uml#_2hn5oMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1xx8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1xyMuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1xycuREeyqwdzsT2CfGQ" name="upass">
+        <modelElement href="Nursery.uml#_2hn5ocuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1xysuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1xy8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1xzMuREeyqwdzsT2CfGQ" name="uemail">
+        <modelElement href="Nursery.uml#_2hn5osuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1xzcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1xzsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_EL1xz8uREeyqwdzsT2CfGQ" name="addplanttoCart">
+      <modelElement href="Nursery.uml#_2h8CsMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1x0MuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2h_GAcuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1x0cuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1x0suREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1x08uREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2h9Q0MuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1x1MuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1x1cuREeyqwdzsT2CfGQ" name="id">
+        <modelElement href="Nursery.uml#_2h8pwMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1x1suREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1x18uREeyqwdzsT2CfGQ" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_EL1x2MuREeyqwdzsT2CfGQ" name="deleteByid">
+      <modelElement href="Nursery.uml#_2iA7MMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1x2cuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2iDXcMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1x2suREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1x28uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1x3MuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2iCJUMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1x3cuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1x3suREeyqwdzsT2CfGQ" name="did">
+        <modelElement href="Nursery.uml#_2iBiQMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1x38uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1x4MuREeyqwdzsT2CfGQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_EL1x4cuREeyqwdzsT2CfGQ" name="updateByid">
+      <modelElement href="Nursery.uml#_2iFzsMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1x4suREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2iIP8MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1x48uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1x5MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1x5cuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2iHB0MuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1x5suREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1x58uREeyqwdzsT2CfGQ" name="upid">
+        <modelElement href="Nursery.uml#_2iGawMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1x6MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1x6cuREeyqwdzsT2CfGQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1x6suREeyqwdzsT2CfGQ" name="uname">
+        <modelElement href="Nursery.uml#_2iGawcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1x68uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1x7MuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_EL1x7cuREeyqwdzsT2CfGQ" name="updateAllByid">
+      <modelElement href="Nursery.uml#_2iJeEMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1x7suREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2ibK4MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1x78uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1x8MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1x8cuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2iL6UMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1x8suREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1x88uREeyqwdzsT2CfGQ" name="uppid">
+        <modelElement href="Nursery.uml#_2iKsMMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1x9MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1x9cuREeyqwdzsT2CfGQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1x9suREeyqwdzsT2CfGQ" name="unname">
+        <modelElement href="Nursery.uml#_2iKsMcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1x98uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1x-MuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1x-cuREeyqwdzsT2CfGQ" name="uddesc">
+        <modelElement href="Nursery.uml#_2iKsMsuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1x-suREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1x-8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_EL1x_MuREeyqwdzsT2CfGQ" name="DisplayCartPage">
+      <modelElement href="Nursery.uml#_232BQMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1x_cuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_233PYMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1x_suREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1x_8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1yAMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_232oUMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1yAcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1yAsuREeyqwdzsT2CfGQ" name="map">
+        <modelElement href="Nursery.uml#_232BQcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1yA8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yBMuREeyqwdzsT2CfGQ" name="ModelMap">
+          <modelElement href="Nursery.uml#_2yC7QMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_EL1yBcuREeyqwdzsT2CfGQ" name="DisplayOrderPage">
+      <modelElement href="Nursery.uml#_234dgMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1yBsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_236SsMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1yB8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1yCMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1yCcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_235EkMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1yCsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1yC8uREeyqwdzsT2CfGQ" name="map">
+        <modelElement href="Nursery.uml#_234dgcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1yDMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yDcuREeyqwdzsT2CfGQ" name="ModelMap">
+          <modelElement href="Nursery.uml#_2yC7QMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_EL1yDsuREeyqwdzsT2CfGQ" name="userLogin">
+      <modelElement href="Nursery.uml#_2365wMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1yD8uREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_239WAMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1yEMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1yEcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1yEsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_237g0suPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1yE8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1yFMuREeyqwdzsT2CfGQ" name="userEmail">
+        <modelElement href="Nursery.uml#_2365wcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1yFcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yFsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1yF8uREeyqwdzsT2CfGQ" name="password">
+        <modelElement href="Nursery.uml#_237g0MuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1yGMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yGcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1yGsuREeyqwdzsT2CfGQ" name="model">
+        <modelElement href="Nursery.uml#_237g0cuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1yG8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yHMuREeyqwdzsT2CfGQ" name="ModelMap">
+          <modelElement href="Nursery.uml#_2yC7QMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_EL1yHcuREeyqwdzsT2CfGQ" name="userLogOut">
+      <modelElement href="Nursery.uml#_23-kIMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1yHsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_23_yQMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1yH8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1yIMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1yIcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_23_LMMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1yIsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1yI8uREeyqwdzsT2CfGQ" name="model">
+        <modelElement href="Nursery.uml#_23-kIcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1yJMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yJcuREeyqwdzsT2CfGQ" name="ModelMap">
+          <modelElement href="Nursery.uml#_2yC7QMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1yJsuREeyqwdzsT2CfGQ" name="session">
+        <modelElement href="Nursery.uml#_23-kIsuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1yJ8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yKMuREeyqwdzsT2CfGQ" name="HttpSession">
+          <modelElement href="Nursery.uml#_2xStUMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_EL1yKcuREeyqwdzsT2CfGQ" name="viewPlant">
+      <modelElement href="Nursery.uml#_24AZUcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1yKsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_24BncMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1yK8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1yLMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1yLcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_24BAYcuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1yLsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1yL8uREeyqwdzsT2CfGQ" name="map">
+        <modelElement href="Nursery.uml#_24BAYMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1yMMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yMcuREeyqwdzsT2CfGQ" name="ModelMap">
+          <modelElement href="Nursery.uml#_2yC7QMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_EL1yMsuREeyqwdzsT2CfGQ" name="searchPlants">
+      <modelElement href="Nursery.uml#_24C1kMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1yM8uREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_24EqwMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1yNMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1yNcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1yNsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_24DcoMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1yN8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1yOMuREeyqwdzsT2CfGQ" name="sPlantSearch">
+        <modelElement href="Nursery.uml#_24C1kcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1yOcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yOsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1yO8uREeyqwdzsT2CfGQ" name="model">
+        <modelElement href="Nursery.uml#_24C1ksuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1yPMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yPcuREeyqwdzsT2CfGQ" name="ModelMap">
+          <modelElement href="Nursery.uml#_2yC7QMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_EL1yPsuREeyqwdzsT2CfGQ" name="searchPlantsByCategory">
+      <modelElement href="Nursery.uml#_24FR0MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1yP8uREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_24HuEMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1yQMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1yQcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1yQsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_24Gf8MuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1yQ8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1yRMuREeyqwdzsT2CfGQ" name="sPlantCategory">
+        <modelElement href="Nursery.uml#_24F44MuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1yRcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yRsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1yR8uREeyqwdzsT2CfGQ" name="model">
+        <modelElement href="Nursery.uml#_24F44cuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1ySMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yScuREeyqwdzsT2CfGQ" name="ModelMap">
+          <modelElement href="Nursery.uml#_2yC7QMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_EL1ySsuREeyqwdzsT2CfGQ" name="displaybyid">
+      <modelElement href="Nursery.uml#_24I8MMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_EL1yS8uREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_24KxYcuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_EL1yTMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_EL1yTcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_EL1yTsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_24JjQcuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_EL1yT8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_EL1yUMuREeyqwdzsT2CfGQ" name="pid">
+        <modelElement href="Nursery.uml#_24I8McuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1yUcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yUsuREeyqwdzsT2CfGQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_EL1yU8uREeyqwdzsT2CfGQ" name="map">
+        <modelElement href="Nursery.uml#_24JjQMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_EL1yVMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_EL1yVcuREeyqwdzsT2CfGQ" name="ModelMap">
+          <modelElement href="Nursery.uml#_2yC7QMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_8DTZgMuPEeyqwdzsT2CfGQ" containment="_CoxcMMuREeyqwdzsT2CfGQ" containments="_ELpkMMuREeyqwdzsT2CfGQ" classes="_EL1KYMuREeyqwdzsT2CfGQ" name="Controller" nestingPackage="_CozRYMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2ajBQMuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_8DTZgcuPEeyqwdzsT2CfGQ" position="444.0,63.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_NwohcMuREeyqwdzsT2CfGQ" containment="_Nwn6YMuREeyqwdzsT2CfGQ" name="UserRepository" package="_8DV1wMuPEeyqwdzsT2CfGQ" associationsIn="_C6Rb4MuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2mnuYMuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_NwohccuREeyqwdzsT2CfGQ" position="-428.0,176.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_NwohcsuREeyqwdzsT2CfGQ" label="+"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_NwtZ8MuREeyqwdzsT2CfGQ" containment="_NwpvkMuREeyqwdzsT2CfGQ" name="CartRepository" package="_8DV1wMuPEeyqwdzsT2CfGQ" associationsIn="_C6AWIMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2m40IMuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_NwtZ8cuREeyqwdzsT2CfGQ" position="-2008.0,120.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_NwtZ8suREeyqwdzsT2CfGQ" label="+"/>
+    <operations xmi:id="_NwtZ88uREeyqwdzsT2CfGQ" name="findCartDetails">
+      <modelElement href="Nursery.uml#_2m_h0MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_NwtZ9MuREeyqwdzsT2CfGQ" name="Generics">
+        <modelElement href="Nursery.uml#_2neqAMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_NwtZ9cuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_2nhGQMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_NwtZ9suREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2niUYMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_NwtZ98uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_NwtZ-MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_NwtZ-cuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_25KP4MuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_NwtZ-suREeyqwdzsT2CfGQ" name="Iterable">
+          <modelElement href="Nursery.uml#_248NcMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_NwtZ-8uREeyqwdzsT2CfGQ" name="searchUserName">
+        <modelElement href="Nursery.uml#_2m_h0cuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_NwtZ_MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_NwtZ_cuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_NwtZ_suREeyqwdzsT2CfGQ" name="checkIfProductExists">
+      <modelElement href="Nursery.uml#_2njigMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_NwtZ_8uREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_2nkwoMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_NwtaAMuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2nl-wMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_NwtaAcuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_NwtaAsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_NwtaA8uREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_22CDYMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_NwtaBMuREeyqwdzsT2CfGQ" name="Cart">
+          <modelElement href="Nursery.uml#_2jI8kMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_NwtaBcuREeyqwdzsT2CfGQ" name="cartUser">
+        <modelElement href="Nursery.uml#_2njigcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_NwtaBsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_NwtaB8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_NwtaCMuREeyqwdzsT2CfGQ" name="cPid">
+        <modelElement href="Nursery.uml#_2nkJkMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_NwtaCcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_NwtaCsuREeyqwdzsT2CfGQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_NwtaC8uREeyqwdzsT2CfGQ" name="findCartDetailsGroupByQunatity">
+      <modelElement href="Nursery.uml#_2nnz8MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_NwtaDMuREeyqwdzsT2CfGQ" name="Generics">
+        <modelElement href="Nursery.uml#_2orj4MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_NwtaDcuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_2osK8MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_NwtaDsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2osyAMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_NwtaD8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_NwtaEMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_NwtaEcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_25KP4cuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_NwtaEsuREeyqwdzsT2CfGQ" name="Iterable">
+          <modelElement href="Nursery.uml#_248NcMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_NwtaE8uREeyqwdzsT2CfGQ" name="userNameGroupByQuantity">
+        <modelElement href="Nursery.uml#_2nnz8cuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_NwtaFMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_NwtaFcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:InterfaceVisual" xmi:id="_NwxEUMuREeyqwdzsT2CfGQ" containment="_NwvPIMuREeyqwdzsT2CfGQ" name="PlantRepository" package="_8DV1wMuPEeyqwdzsT2CfGQ" associationsIn="_C6LVQMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2ozfsMuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_NwxEUcuREeyqwdzsT2CfGQ" position="-605.0,287.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_NwxEUsuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+      <modelElement href="Nursery.uml#_2o0t0MuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <stereotypes xmi:id="_NwxEU8uREeyqwdzsT2CfGQ" name="Annotations">
+      <modelElement href="Nursery.uml#_2pkUsMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <visibility xmi:id="_NwxEVMuREeyqwdzsT2CfGQ" label="+"/>
+    <operations xmi:id="_NwxEVcuREeyqwdzsT2CfGQ" name="updateAllById">
+      <modelElement href="Nursery.uml#_2o2jAMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_NwxEVsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2o7bgMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_NwxEV8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_NwxEWMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_NwxEWcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2o3xIMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_NwxEWsuREeyqwdzsT2CfGQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_NwxEW8uREeyqwdzsT2CfGQ" name="pID">
+        <modelElement href="Nursery.uml#_2o3KEMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_NwxEXMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_NwxEXcuREeyqwdzsT2CfGQ" name="Integer">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_NwxEXsuREeyqwdzsT2CfGQ" name="pName">
+        <modelElement href="Nursery.uml#_2o3KEcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_NwxEX8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_NwxEYMuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_NwxEYcuREeyqwdzsT2CfGQ" name="pDesc">
+        <modelElement href="Nursery.uml#_2o3KEsuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_NwxEYsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_NwxEY8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_NwxEZMuREeyqwdzsT2CfGQ" name="findByNameIgnoreCase">
+      <modelElement href="Nursery.uml#_2o8poMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_NwxEZcuREeyqwdzsT2CfGQ" name="Generics">
+        <modelElement href="Nursery.uml#_2pNvYMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_NwxEZsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2pO9gMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_NwxEZ8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_NwxEaMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_NwxEacuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_25dK0MuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_NwxEasuREeyqwdzsT2CfGQ" name="Iterable">
+          <modelElement href="Nursery.uml#_248NcMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_NwxEa8uREeyqwdzsT2CfGQ" name="searchPlant">
+        <modelElement href="Nursery.uml#_2o9QsMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_NwxEbMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_NwxEbcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_NwxEbsuREeyqwdzsT2CfGQ" name="findByCategory">
+      <modelElement href="Nursery.uml#_2pQLoMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_NwxEb8uREeyqwdzsT2CfGQ" name="Generics">
+        <modelElement href="Nursery.uml#_2pifgMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_NwxEcMuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2pjGkMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_NwxEccuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_NwxEcsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_NwxEc8uREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_25dx4MuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_NwxEdMuREeyqwdzsT2CfGQ" name="Iterable">
+          <modelElement href="Nursery.uml#_248NcMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_NwxEdcuREeyqwdzsT2CfGQ" name="searchPlantCategory">
+        <modelElement href="Nursery.uml#_2pQLocuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_NwxEdsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_NwxEd8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_8DV1wMuPEeyqwdzsT2CfGQ" containment="_CoxcMcuREeyqwdzsT2CfGQ" containments="_Nwn6YMuREeyqwdzsT2CfGQ _NwpvkMuREeyqwdzsT2CfGQ _NwvPIMuREeyqwdzsT2CfGQ" classes="_NwohcMuREeyqwdzsT2CfGQ _NwtZ8MuREeyqwdzsT2CfGQ _NwxEUMuREeyqwdzsT2CfGQ" name="Repository" nestingPackage="_CozRYMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2cRfkMuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_8DV1wcuPEeyqwdzsT2CfGQ" position="-276.0,63.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MTd_4MuREeyqwdzsT2CfGQ" containment="_MTP9csuREeyqwdzsT2CfGQ" name="Cart" package="_8DPvIMuPEeyqwdzsT2CfGQ" associationsIn="_MTPWYMuREeyqwdzsT2CfGQ _MTPWYcuREeyqwdzsT2CfGQ" associationsOut="_MTP9cMuREeyqwdzsT2CfGQ _MTP9ccuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2jI8kMuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_MTd_4cuREeyqwdzsT2CfGQ" position="1015.0,76.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_MTd_4suREeyqwdzsT2CfGQ" name="JPA1StyledElement">
+      <modelElement href="Nursery.uml#_2jOcIMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <visibility xmi:id="_MTd_48uREeyqwdzsT2CfGQ" label="+"/>
+    <attributes xmi:id="_MTd_5MuREeyqwdzsT2CfGQ" name="cID">
+      <modelElement href="Nursery.uml#_26QcEMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTd_5cuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26RDIMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MTd_5suREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_26S4UMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTd_58uREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTd_6MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTd_6cuREeyqwdzsT2CfGQ" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTd_6suREeyqwdzsT2CfGQ" name="pID">
+      <modelElement href="Nursery.uml#_26TfYMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTd_68uREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26UGcMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTd_7MuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTd_7cuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTd_7suREeyqwdzsT2CfGQ" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTd_78uREeyqwdzsT2CfGQ" name="pName">
+      <modelElement href="Nursery.uml#_26UGccuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTd_8MuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26VUkMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTd_8cuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTd_8suREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTd_88uREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTd_9MuREeyqwdzsT2CfGQ" name="pDesc">
+      <modelElement href="Nursery.uml#_26V7oMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTd_9cuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26XJwMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTd_9suREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTd_98uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTd_-MuREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTd_-cuREeyqwdzsT2CfGQ" name="pQty">
+      <modelElement href="Nursery.uml#_26XJwcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTd_-suREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26Xw0MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTd_-8uREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTd__MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTd__cuREeyqwdzsT2CfGQ" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTd__suREeyqwdzsT2CfGQ" name="pPrice">
+      <modelElement href="Nursery.uml#_26YX4MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTd__8uREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26YX4cuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTeAAMuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTeAAcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTeAAsuREeyqwdzsT2CfGQ" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTeAA8uREeyqwdzsT2CfGQ" name="uName">
+      <modelElement href="Nursery.uml#_26Y-8MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTeABMuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26ZmAMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTeABcuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTeABsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTeAB8uREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTeACMuREeyqwdzsT2CfGQ" name="plant">
+      <modelElement href="Nursery.uml#_26ZmAcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTeACcuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26a0IMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MTeACsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_26a0IcuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTeAC8uREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTeADMuREeyqwdzsT2CfGQ" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_MTeADcuREeyqwdzsT2CfGQ" name="Plant">
+        <modelElement href="Nursery.uml#_2lPOUMuPEeyqwdzsT2CfGQ"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTeADsuREeyqwdzsT2CfGQ" name="users">
+      <modelElement href="Nursery.uml#_26bbMsuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTeAD8uREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26cCQMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MTeAEMuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_26cpUMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTeAEcuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTeAEsuREeyqwdzsT2CfGQ" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_MTeAE8uREeyqwdzsT2CfGQ" name="Users">
+        <modelElement href="Nursery.uml#_2pmJ4MuPEeyqwdzsT2CfGQ"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_MTeAFMuREeyqwdzsT2CfGQ" name="Cart">
+      <modelElement href="Nursery.uml#_2jRfcMuPEeyqwdzsT2CfGQ"/>
+      <keywords xmi:id="_MTeAFcuREeyqwdzsT2CfGQ" keyword="create"/>
+      <stereotypes xmi:id="_MTeAFsuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_2jStkMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTeAF8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTeAGMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTeAGcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2jTUoMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTeAGsuREeyqwdzsT2CfGQ" name="Cart">
+          <modelElement href="Nursery.uml#_2jI8kMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTeAG8uREeyqwdzsT2CfGQ" name="Cart">
+      <modelElement href="Nursery.uml#_2jUiwMuPEeyqwdzsT2CfGQ"/>
+      <keywords xmi:id="_MTeAHMuREeyqwdzsT2CfGQ" keyword="create"/>
+      <stereotypes xmi:id="_MTeAHcuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jW_AMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTeAHsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTeAH8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTeAIMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2jWX8suPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTeAIcuREeyqwdzsT2CfGQ" name="Cart">
+          <modelElement href="Nursery.uml#_2jI8kMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MTeAIsuREeyqwdzsT2CfGQ" name="pID">
+        <modelElement href="Nursery.uml#_2jVJ0MuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTeAI8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTeAJMuREeyqwdzsT2CfGQ" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MTeAJcuREeyqwdzsT2CfGQ" name="pName">
+        <modelElement href="Nursery.uml#_2jVJ0cuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTeAJsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTeAJ8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MTeAKMuREeyqwdzsT2CfGQ" name="pDesc">
+        <modelElement href="Nursery.uml#_2jVJ0suPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTeAKcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTeAKsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MTeAK8uREeyqwdzsT2CfGQ" name="pQty">
+        <modelElement href="Nursery.uml#_2jVw4MuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTeALMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTeALcuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MTeALsuREeyqwdzsT2CfGQ" name="pPrice">
+        <modelElement href="Nursery.uml#_2jVw4cuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTeAL8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTeAMMuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MTeAMcuREeyqwdzsT2CfGQ" name="uName">
+        <modelElement href="Nursery.uml#_2jVw4suPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTeAMsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTeAM8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTeANMuREeyqwdzsT2CfGQ" name="getcID">
+      <modelElement href="Nursery.uml#_2jXmEMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTeANcuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jY0MMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTeANsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTeAN8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTeAOMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2jYNIMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTeAOcuREeyqwdzsT2CfGQ" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTeAOsuREeyqwdzsT2CfGQ" name="setcID">
+      <modelElement href="Nursery.uml#_2jZbQMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTeAO8uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jaCUMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTeAPMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTeAPcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MTeAPsuREeyqwdzsT2CfGQ" name="cID">
+        <modelElement href="Nursery.uml#_2jZbQcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTeAP8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTeAQMuREeyqwdzsT2CfGQ" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTeAQcuREeyqwdzsT2CfGQ" name="getuName">
+      <modelElement href="Nursery.uml#_2jaCUcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTeAQsuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jbQcMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTeAQ8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTeARMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTeARcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2japYMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTeARsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTem8MuREeyqwdzsT2CfGQ" name="setuName">
+      <modelElement href="Nursery.uml#_2jcekMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTem8cuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jdFocuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTem8suREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTem88uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MTem9MuREeyqwdzsT2CfGQ" name="uName">
+        <modelElement href="Nursery.uml#_2jdFoMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTem9cuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTem9suREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTem98uREeyqwdzsT2CfGQ" name="getpID">
+      <modelElement href="Nursery.uml#_2jdssMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTem-MuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jeTwcuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTem-cuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTem-suREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTem-8uREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2jeTwMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTem_MuREeyqwdzsT2CfGQ" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTem_cuREeyqwdzsT2CfGQ" name="setpID">
+      <modelElement href="Nursery.uml#_2je60MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTem_suREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jfh4MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTem_8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTenAMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MTenAcuREeyqwdzsT2CfGQ" name="pID">
+        <modelElement href="Nursery.uml#_2je60cuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTenAsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTenA8uREeyqwdzsT2CfGQ" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTenBMuREeyqwdzsT2CfGQ" name="getpName">
+      <modelElement href="Nursery.uml#_2jgI8MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTenBcuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jgwAMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTenBsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTenB8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTenCMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2jgI8cuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTenCcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTenCsuREeyqwdzsT2CfGQ" name="setpName">
+      <modelElement href="Nursery.uml#_2jhXEMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTenC8uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jh-IMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTenDMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTenDcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MTenDsuREeyqwdzsT2CfGQ" name="pName">
+        <modelElement href="Nursery.uml#_2jhXEcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTenD8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTenEMuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTenEcuREeyqwdzsT2CfGQ" name="getpDesc">
+      <modelElement href="Nursery.uml#_2jilMMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTenEsuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jjMQMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTenE8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTenFMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTenFcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2jilMcuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTenFsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTenF8uREeyqwdzsT2CfGQ" name="setpDesc">
+      <modelElement href="Nursery.uml#_2jjzUMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTenGMuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jkaYMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTenGcuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTenGsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MTenG8uREeyqwdzsT2CfGQ" name="pDesc">
+        <modelElement href="Nursery.uml#_2jjzUcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTenHMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTenHcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTenHsuREeyqwdzsT2CfGQ" name="getpQty">
+      <modelElement href="Nursery.uml#_2jlBcMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTenH8uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jndsMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTenIMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTenIcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTenIsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2jlBccuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTenI8uREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTenJMuREeyqwdzsT2CfGQ" name="setpQty">
+      <modelElement href="Nursery.uml#_2joEwMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTenJcuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jpS4MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTenJsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTenJ8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MTenKMuREeyqwdzsT2CfGQ" name="pQty">
+        <modelElement href="Nursery.uml#_2joEwcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTenKcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTenKsuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTenK8uREeyqwdzsT2CfGQ" name="getpPrice">
+      <modelElement href="Nursery.uml#_2jpS4cuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTenLMuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jp58cuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTenLcuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTenLsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTenL8uREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2jp58MuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTenMMuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTenMcuREeyqwdzsT2CfGQ" name="setpPrice">
+      <modelElement href="Nursery.uml#_2jqhAMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTenMsuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2jrvIMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTenM8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTenNMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MTenNcuREeyqwdzsT2CfGQ" name="pPrice">
+        <modelElement href="Nursery.uml#_2jrIEMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTenNsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTenN8uREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTenOMuREeyqwdzsT2CfGQ" name="toString">
+      <modelElement href="Nursery.uml#_2jrvIcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTenOcuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_2js9QMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MTenOsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2jtkUMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTenO8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTenPMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTenPcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2jsWMMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTenPsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MTnJ0MuREeyqwdzsT2CfGQ" containment="_MThDMMuREeyqwdzsT2CfGQ" name="Order" package="_8DPvIMuPEeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2kPv0MuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_MTnJ0cuREeyqwdzsT2CfGQ" position="-1441.0,90.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_MTnJ0suREeyqwdzsT2CfGQ" label="+"/>
+    <attributes xmi:id="_MTnJ08uREeyqwdzsT2CfGQ" name="oID">
+      <modelElement href="Nursery.uml#_26d3cMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTnJ1MuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26fsoMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MTnJ1cuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_26gTsMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTnJ1suREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTnJ18uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTnJ2MuREeyqwdzsT2CfGQ" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTnJ2cuREeyqwdzsT2CfGQ" name="uName">
+      <modelElement href="Nursery.uml#_26gTs8uPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTnJ2suREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26hh0MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MTnJ28uREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_26iI4MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTnJ3MuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTnJ3cuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTnJ3suREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTnJ38uREeyqwdzsT2CfGQ" name="pID">
+      <modelElement href="Nursery.uml#_26iI4suPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTnJ4MuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26iv8MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTnJ4cuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTnJ4suREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTnJ48uREeyqwdzsT2CfGQ" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTnJ5MuREeyqwdzsT2CfGQ" name="pName">
+      <modelElement href="Nursery.uml#_26jXAMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTnJ5cuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26j-EMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTnJ5suREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTnJ58uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTnJ6MuREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTnJ6cuREeyqwdzsT2CfGQ" name="pDesc">
+      <modelElement href="Nursery.uml#_26klIMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTnJ6suREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26lMMMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTnJ68uREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTnJ7MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTnJ7cuREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTnJ7suREeyqwdzsT2CfGQ" name="pQty">
+      <modelElement href="Nursery.uml#_26lMMcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTnJ78uREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26lzQMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTnJ8MuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTnJ8cuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTnJ8suREeyqwdzsT2CfGQ" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MTnJ88uREeyqwdzsT2CfGQ" name="pPrice">
+      <modelElement href="Nursery.uml#_26lzQcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTnJ9MuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26maUMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTnJ9cuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MTnJ9suREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MTnJ98uREeyqwdzsT2CfGQ" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_MTnJ-MuREeyqwdzsT2CfGQ" name="Order">
+      <modelElement href="Nursery.uml#_2kZg0MuPEeyqwdzsT2CfGQ"/>
+      <keywords xmi:id="_MTnJ-cuREeyqwdzsT2CfGQ" keyword="create"/>
+      <visibility xmi:id="_MTnJ-suREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnJ-8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTnJ_MuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2kdyQsuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTnJ_cuREeyqwdzsT2CfGQ" name="Order">
+          <modelElement href="Nursery.uml#_2kPv0MuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MTnJ_suREeyqwdzsT2CfGQ" name="uName">
+        <modelElement href="Nursery.uml#_2kaH4MuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTnJ_8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTnKAMuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MTnKAcuREeyqwdzsT2CfGQ" name="pID">
+        <modelElement href="Nursery.uml#_2kbWAMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTnKAsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTnKA8uREeyqwdzsT2CfGQ" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MTnKBMuREeyqwdzsT2CfGQ" name="pName">
+        <modelElement href="Nursery.uml#_2kbWAcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTnKBcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTnKBsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MTnKB8uREeyqwdzsT2CfGQ" name="pDesc">
+        <modelElement href="Nursery.uml#_2kbWAsuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTnKCMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTnKCcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MTnKCsuREeyqwdzsT2CfGQ" name="pQty">
+        <modelElement href="Nursery.uml#_2kb9EMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTnKC8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTnKDMuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MTnKDcuREeyqwdzsT2CfGQ" name="pPrice">
+        <modelElement href="Nursery.uml#_2kdLMMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTnKDsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTnKD8uREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTnKEMuREeyqwdzsT2CfGQ" name="toString">
+      <modelElement href="Nursery.uml#_2keZUMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MTnKEcuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_2kgOgMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MTnKEsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2kg1kMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MTnKE8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnKFMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTnKFcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2kfncMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTnKFsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTnKF8uREeyqwdzsT2CfGQ" name="getuName">
+      <modelElement href="Nursery.uml#_2khcoMuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MTnKGMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnKGcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTnKGsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2khcocuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTnKG8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTnKHMuREeyqwdzsT2CfGQ" name="setuName">
+      <modelElement href="Nursery.uml#_2kj44MuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MTnKHcuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnKHsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MTnKH8uREeyqwdzsT2CfGQ" name="uName">
+        <modelElement href="Nursery.uml#_2kkf8MuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTnKIMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTnKIcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTnKIsuREeyqwdzsT2CfGQ" name="getpID">
+      <modelElement href="Nursery.uml#_2klHAMuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MTnKI8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnKJMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTnKJcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2kluEMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTnKJsuREeyqwdzsT2CfGQ" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTnKJ8uREeyqwdzsT2CfGQ" name="setpID">
+      <modelElement href="Nursery.uml#_2km8MMuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MTnKKMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnKKcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MTnKKsuREeyqwdzsT2CfGQ" name="pID">
+        <modelElement href="Nursery.uml#_2km8McuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTnKK8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTnKLMuREeyqwdzsT2CfGQ" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTnKLcuREeyqwdzsT2CfGQ" name="getpName">
+      <modelElement href="Nursery.uml#_2knjQMuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MTnKLsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnKL8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTnKMMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2koKUMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTnKMcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTnKMsuREeyqwdzsT2CfGQ" name="setpName">
+      <modelElement href="Nursery.uml#_2kp_gMuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MTnKM8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnKNMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MTnKNcuREeyqwdzsT2CfGQ" name="pName">
+        <modelElement href="Nursery.uml#_2kp_gcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTnKNsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTnKN8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTnKOMuREeyqwdzsT2CfGQ" name="getpDesc">
+      <modelElement href="Nursery.uml#_2kqmkMuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MTnKOcuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnKOsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTnKO8uREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2krNoMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTnKPMuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTnKPcuREeyqwdzsT2CfGQ" name="setpDesc">
+      <modelElement href="Nursery.uml#_2kr0sMuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MTnKPsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnKP8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MTnKQMuREeyqwdzsT2CfGQ" name="pDesc">
+        <modelElement href="Nursery.uml#_2kr0scuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTnKQcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTnKQsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTnKQ8uREeyqwdzsT2CfGQ" name="getpQty">
+      <modelElement href="Nursery.uml#_2ksbwMuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MTnKRMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnKRcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTnKRsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2ktC0MuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTnKR8uREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTnKSMuREeyqwdzsT2CfGQ" name="setpQty">
+      <modelElement href="Nursery.uml#_2ktp4MuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MTnKScuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnKSsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MTnKS8uREeyqwdzsT2CfGQ" name="pQty">
+        <modelElement href="Nursery.uml#_2ktp4cuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTnKTMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTnKTcuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MTnKTsuREeyqwdzsT2CfGQ" name="getpPrice">
+      <modelElement href="Nursery.uml#_2kuQ8MuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MTnKT8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnKUMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MTnKUcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2kwGIMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MTnKUsuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MTnKU8uREeyqwdzsT2CfGQ" name="setpPrice">
+      <modelElement href="Nursery.uml#_2kxUQMuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MTnKVMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MTnKVcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MTnKVsuREeyqwdzsT2CfGQ" name="pPrice">
+        <modelElement href="Nursery.uml#_2kxUQcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MTnKV8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MTnKWMuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MT0lMMuREeyqwdzsT2CfGQ" containment="_MTqNIMuREeyqwdzsT2CfGQ" name="Plant" package="_8DPvIMuPEeyqwdzsT2CfGQ" associationsIn="_MTP9cMuREeyqwdzsT2CfGQ" associationsOut="_MTPWYMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2lPOUMuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_MT0lMcuREeyqwdzsT2CfGQ" position="1717.0,90.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_MT0lMsuREeyqwdzsT2CfGQ" name="JPA1StyledElement">
+      <modelElement href="Nursery.uml#_2liJQMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <visibility xmi:id="_MT0lM8uREeyqwdzsT2CfGQ" label="+"/>
+    <attributes xmi:id="_MT0lNMuREeyqwdzsT2CfGQ" name="pID">
+      <modelElement href="Nursery.uml#_26oPgMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lNcuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26o2kMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MT0lNsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_26o2kcuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lN8uREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MT0lOMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MT0lOcuREeyqwdzsT2CfGQ" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MT0lOsuREeyqwdzsT2CfGQ" name="pName">
+      <modelElement href="Nursery.uml#_26pdocuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lO8uREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26qEsMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lPMuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MT0lPcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MT0lPsuREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MT0lP8uREeyqwdzsT2CfGQ" name="pDesc">
+      <modelElement href="Nursery.uml#_26qEscuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lQMuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26r54MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lQcuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MT0lQsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MT0lQ8uREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MT0lRMuREeyqwdzsT2CfGQ" name="pQty">
+      <modelElement href="Nursery.uml#_26r54cuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lRcuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26sg8MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lRsuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MT0lR8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MT0lSMuREeyqwdzsT2CfGQ" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MT0lScuREeyqwdzsT2CfGQ" name="pPrice">
+      <modelElement href="Nursery.uml#_26sg8cuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lSsuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26tIAMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lS8uREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MT0lTMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MT0lTcuREeyqwdzsT2CfGQ" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MT0lTsuREeyqwdzsT2CfGQ" name="pCategory">
+      <modelElement href="Nursery.uml#_26tIAcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lT8uREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26tvEMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lUMuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MT0lUcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MT0lUsuREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MT0lU8uREeyqwdzsT2CfGQ" name="cart">
+      <modelElement href="Nursery.uml#_26uWIMuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MT0lVMuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MT0lVcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MT0lVsuREeyqwdzsT2CfGQ" name="Cart">
+        <modelElement href="Nursery.uml#_2jI8kMuPEeyqwdzsT2CfGQ"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_MT0lV8uREeyqwdzsT2CfGQ" name="Plant">
+      <modelElement href="Nursery.uml#_2lpeAMuPEeyqwdzsT2CfGQ"/>
+      <keywords xmi:id="_MT0lWMuREeyqwdzsT2CfGQ" keyword="create"/>
+      <stereotypes xmi:id="_MT0lWcuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_2lqsIMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lWsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0lW8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MT0lXMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2lqsIcuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MT0lXcuREeyqwdzsT2CfGQ" name="Plant">
+          <modelElement href="Nursery.uml#_2lPOUMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MT0lXsuREeyqwdzsT2CfGQ" name="Plant">
+      <modelElement href="Nursery.uml#_2ltvcMuPEeyqwdzsT2CfGQ"/>
+      <keywords xmi:id="_MT0lX8uREeyqwdzsT2CfGQ" keyword="create"/>
+      <stereotypes xmi:id="_MT0lYMuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2lwywMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lYcuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0lYsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MT0lY8uREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2lwLssuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MT0lZMuREeyqwdzsT2CfGQ" name="Plant">
+          <modelElement href="Nursery.uml#_2lPOUMuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MT0lZcuREeyqwdzsT2CfGQ" name="pName">
+        <modelElement href="Nursery.uml#_2luWgMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MT0lZsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MT0lZ8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MT0laMuREeyqwdzsT2CfGQ" name="pDesc">
+        <modelElement href="Nursery.uml#_2lu9kMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MT0lacuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MT0lasuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MT0la8uREeyqwdzsT2CfGQ" name="pQty">
+        <modelElement href="Nursery.uml#_2lu9kcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MT0lbMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MT0lbcuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MT0lbsuREeyqwdzsT2CfGQ" name="pPrice">
+        <modelElement href="Nursery.uml#_2lvkoMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MT0lb8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MT0lcMuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MT0lccuREeyqwdzsT2CfGQ" name="pCategory">
+        <modelElement href="Nursery.uml#_2lvkocuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MT0lcsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MT0lc8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MT0ldMuREeyqwdzsT2CfGQ" name="getpID">
+      <modelElement href="Nursery.uml#_2lxZ0MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0ldcuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2lzPAMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0ldsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0ld8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MT0leMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2lxZ0cuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MT0lecuREeyqwdzsT2CfGQ" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MT0lesuREeyqwdzsT2CfGQ" name="setpID">
+      <modelElement href="Nursery.uml#_2lz2EMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0le8uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2l0dIMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lfMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0lfcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MT0lfsuREeyqwdzsT2CfGQ" name="pID">
+        <modelElement href="Nursery.uml#_2lz2EcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MT0lf8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MT0lgMuREeyqwdzsT2CfGQ" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MT0lgcuREeyqwdzsT2CfGQ" name="toString">
+      <modelElement href="Nursery.uml#_2l1EMMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lgsuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_2l2SUMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MT0lg8uREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2l3gcMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lhMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0lhcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MT0lhsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2l1rQMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MT0lh8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MT0liMuREeyqwdzsT2CfGQ" name="getpName">
+      <modelElement href="Nursery.uml#_2l5VoMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0licuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2l6jwMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lisuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0li8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MT0ljMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2l58sMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MT0ljcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MT0ljsuREeyqwdzsT2CfGQ" name="setpName">
+      <modelElement href="Nursery.uml#_2l7K0MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lj8uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2l7x4MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lkMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0lkcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MT0lksuREeyqwdzsT2CfGQ" name="pName">
+        <modelElement href="Nursery.uml#_2l7K0cuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MT0lk8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MT0llMuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MT0llcuREeyqwdzsT2CfGQ" name="getpCategory">
+      <modelElement href="Nursery.uml#_2l8Y8MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0llsuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2l9AAMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0ll8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0lmMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MT0lmcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2l8Y8cuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MT0lmsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MT0lm8uREeyqwdzsT2CfGQ" name="setpCategory">
+      <modelElement href="Nursery.uml#_2l9AAcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lnMuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2l_cQMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lncuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0lnsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MT0ln8uREeyqwdzsT2CfGQ" name="pCategory">
+        <modelElement href="Nursery.uml#_2l9nEMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MT0loMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MT0locuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MT0losuREeyqwdzsT2CfGQ" name="getpDesc">
+      <modelElement href="Nursery.uml#_2l_cQcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lo8uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2mLpgMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lpMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0lpcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MT0lpsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2mGJ8MuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MT0lp8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MT0lqMuREeyqwdzsT2CfGQ" name="setpDesc">
+      <modelElement href="Nursery.uml#_2mMQkMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lqcuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2mM3oMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lqsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0lq8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MT0lrMuREeyqwdzsT2CfGQ" name="pDesc">
+        <modelElement href="Nursery.uml#_2mMQkcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MT0lrcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MT0lrsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MT0lr8uREeyqwdzsT2CfGQ" name="getpQty">
+      <modelElement href="Nursery.uml#_2mNesMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lsMuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2mOs0MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lscuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0lssuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MT0ls8uREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2mOFwMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MT0ltMuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MT0ltcuREeyqwdzsT2CfGQ" name="setpQty">
+      <modelElement href="Nursery.uml#_2mP68MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0ltsuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2mSXMMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lt8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0luMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MT0lucuREeyqwdzsT2CfGQ" name="pQty">
+        <modelElement href="Nursery.uml#_2mRwIMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MT0lusuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MT0lu8uREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MT0lvMuREeyqwdzsT2CfGQ" name="getpPrice">
+      <modelElement href="Nursery.uml#_2maTAMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lvcuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2mbhIMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lvsuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0lv8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MT0lwMuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2ma6EMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MT0lwcuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MT0lwsuREeyqwdzsT2CfGQ" name="setpPrice">
+      <modelElement href="Nursery.uml#_2mbhIcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MT0lw8uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2mekcMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MT0lxMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MT0lxcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MT0lxsuREeyqwdzsT2CfGQ" name="pPrice">
+        <modelElement href="Nursery.uml#_2mcIMMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MT0lx8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MT0lyMuREeyqwdzsT2CfGQ" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_MUCAkMuREeyqwdzsT2CfGQ" containment="_MT4PkMuREeyqwdzsT2CfGQ" name="Users" package="_8DPvIMuPEeyqwdzsT2CfGQ" associationsIn="_MTP9ccuREeyqwdzsT2CfGQ" associationsOut="_MTPWYcuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2pmJ4MuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_MUCAkcuREeyqwdzsT2CfGQ" position="2408.0,135.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_MUCAksuREeyqwdzsT2CfGQ" name="JPA1StyledElement">
+      <modelElement href="Nursery.uml#_2pn_EMuPEeyqwdzsT2CfGQ"/>
+    </stereotypes>
+    <visibility xmi:id="_MUCAk8uREeyqwdzsT2CfGQ" label="+"/>
+    <attributes xmi:id="_MUCAlMuREeyqwdzsT2CfGQ" name="uId">
+      <modelElement href="Nursery.uml#_26wLUMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCAlcuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26wyYMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MUCAlsuREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_26xZcMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCAl8uREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MUCAmMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MUCAmcuREeyqwdzsT2CfGQ" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MUCAmsuREeyqwdzsT2CfGQ" name="uName">
+      <modelElement href="Nursery.uml#_26xZc8uPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCAm8uREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26yAgMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCAnMuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MUCAncuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MUCAnsuREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MUCAn8uREeyqwdzsT2CfGQ" name="uEmail">
+      <modelElement href="Nursery.uml#_26yAgcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCAoMuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26ynkMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCAocuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MUCAosuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MUCAo8uREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MUCApMuREeyqwdzsT2CfGQ" name="uPassword">
+      <modelElement href="Nursery.uml#_26ynkcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCApcuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26zOoMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCApsuREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MUCAp8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MUCAqMuREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MUCAqcuREeyqwdzsT2CfGQ" name="uRole">
+      <modelElement href="Nursery.uml#_26z1sMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCAqsuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_26z1scuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCAq8uREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MUCArMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MUCArcuREeyqwdzsT2CfGQ" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_MUCArsuREeyqwdzsT2CfGQ" name="cart">
+      <modelElement href="Nursery.uml#_260cwMuPEeyqwdzsT2CfGQ"/>
+      <visibility xmi:id="_MUCAr8uREeyqwdzsT2CfGQ" label="-"/>
+      <cardinality xmi:id="_MUCAsMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <type xmi:id="_MUCAscuREeyqwdzsT2CfGQ" name="Cart">
+        <modelElement href="Nursery.uml#_2jI8kMuPEeyqwdzsT2CfGQ"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_MUCAssuREeyqwdzsT2CfGQ" name="Users">
+      <modelElement href="Nursery.uml#_2ppNMMuPEeyqwdzsT2CfGQ"/>
+      <keywords xmi:id="_MUCAs8uREeyqwdzsT2CfGQ" keyword="create"/>
+      <stereotypes xmi:id="_MUCAtMuREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_2pv64MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCAtcuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MUCAtsuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MUCAt8uREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2pwh8MuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MUCAuMuREeyqwdzsT2CfGQ" name="Users">
+          <modelElement href="Nursery.uml#_2pmJ4MuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MUCAucuREeyqwdzsT2CfGQ" name="Users">
+      <modelElement href="Nursery.uml#_2pzlQMuPEeyqwdzsT2CfGQ"/>
+      <keywords xmi:id="_MUCAusuREeyqwdzsT2CfGQ" keyword="create"/>
+      <stereotypes xmi:id="_MUCAu8uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2p2BgMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCAvMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MUCAvcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MUCAvsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2p0MU8uPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MUCAv8uREeyqwdzsT2CfGQ" name="Users">
+          <modelElement href="Nursery.uml#_2pmJ4MuPEeyqwdzsT2CfGQ"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_MUCAwMuREeyqwdzsT2CfGQ" name="uName">
+        <modelElement href="Nursery.uml#_2pzlQcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MUCAwcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MUCAwsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MUCAw8uREeyqwdzsT2CfGQ" name="uEmail">
+        <modelElement href="Nursery.uml#_2pzlQsuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MUCAxMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MUCAxcuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_MUCAxsuREeyqwdzsT2CfGQ" name="uPassword">
+        <modelElement href="Nursery.uml#_2p0MUMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MUCAx8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MUCAyMuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MUCAycuREeyqwdzsT2CfGQ" name="getuName">
+      <modelElement href="Nursery.uml#_2p2okMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCAysuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2p5r4MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCAy8uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MUCAzMuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MUCAzcuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2p4dwMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MUCAzsuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MUCAz8uREeyqwdzsT2CfGQ" name="setuName">
+      <modelElement href="Nursery.uml#_2p6S8MuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCA0MuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2p7hEMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCA0cuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MUCA0suREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MUCA08uREeyqwdzsT2CfGQ" name="uName">
+        <modelElement href="Nursery.uml#_2p6S8cuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MUCA1MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MUCA1cuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MUCA1suREeyqwdzsT2CfGQ" name="getuEmail">
+      <modelElement href="Nursery.uml#_2p8IIMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCA18uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2p8vMMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCA2MuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MUCA2cuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MUCA2suREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2p8IIcuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MUCA28uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MUCA3MuREeyqwdzsT2CfGQ" name="setuEmail">
+      <modelElement href="Nursery.uml#_2p9WQMuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCA3cuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2p-kYMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCA3suREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MUCA38uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MUCA4MuREeyqwdzsT2CfGQ" name="uEmail">
+        <modelElement href="Nursery.uml#_2p9WQcuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MUCA4cuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MUCA4suREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MUCA48uREeyqwdzsT2CfGQ" name="getuPassword">
+      <modelElement href="Nursery.uml#_2p-kYcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCA5MuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2p_ygMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCA5cuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MUCA5suREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MUCA58uREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2p_LcMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MUCA6MuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MUCA6cuREeyqwdzsT2CfGQ" name="setuPassword">
+      <modelElement href="Nursery.uml#_2p_ygcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCA6suREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2qBAoMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCA68uREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MUCA7MuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MUCA7cuREeyqwdzsT2CfGQ" name="uPassword">
+        <modelElement href="Nursery.uml#_2qAZkMuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MUCA7suREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MUCA78uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MUCA8MuREeyqwdzsT2CfGQ" name="getuRole">
+      <modelElement href="Nursery.uml#_2qBAocuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCA8cuREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2qCOwMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCA8suREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MUCA88uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MUCA9MuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2qBnsMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MUCA9cuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_MUCA9suREeyqwdzsT2CfGQ" name="setuRole">
+      <modelElement href="Nursery.uml#_2qCOwcuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCA98uREeyqwdzsT2CfGQ" name="StyledElement">
+        <modelElement href="Nursery.uml#_2qDc4MuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCA-MuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MUCA-cuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <parameters xmi:id="_MUCA-suREeyqwdzsT2CfGQ" name="uRole">
+        <modelElement href="Nursery.uml#_2qC10MuPEeyqwdzsT2CfGQ"/>
+        <cardinality xmi:id="_MUCA-8uREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+        <type xmi:id="_MUCA_MuREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_MUCA_cuREeyqwdzsT2CfGQ" name="toString">
+      <modelElement href="Nursery.uml#_2qDc4cuPEeyqwdzsT2CfGQ"/>
+      <stereotypes xmi:id="_MUCA_suREeyqwdzsT2CfGQ" name="LegacyStyledElement">
+        <modelElement href="Nursery.uml#_2qFSEcuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <stereotypes xmi:id="_MUCA_8uREeyqwdzsT2CfGQ" name="Annotations">
+        <modelElement href="Nursery.uml#_2qF5IMuPEeyqwdzsT2CfGQ"/>
+      </stereotypes>
+      <visibility xmi:id="_MUCBAMuREeyqwdzsT2CfGQ" label="+"/>
+      <cardinality xmi:id="_MUCBAcuREeyqwdzsT2CfGQ" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_MUCBAsuREeyqwdzsT2CfGQ">
+        <modelElement href="Nursery.uml#_2qFSEMuPEeyqwdzsT2CfGQ"/>
+        <type xmi:id="_MUCBA8uREeyqwdzsT2CfGQ" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_CozRYMuREeyqwdzsT2CfGQ" containments="_CowOEMuREeyqwdzsT2CfGQ _Cow1IMuREeyqwdzsT2CfGQ _CoxcMMuREeyqwdzsT2CfGQ _CoxcMcuREeyqwdzsT2CfGQ _CoyDQMuREeyqwdzsT2CfGQ" classes="_8CW-UMuPEeyqwdzsT2CfGQ" name="Nursery" nestedPackages="_8DPvIMuPEeyqwdzsT2CfGQ _8DRkUMuPEeyqwdzsT2CfGQ _8DTZgMuPEeyqwdzsT2CfGQ _8DV1wMuPEeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2XoQIMuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_CozRYcuREeyqwdzsT2CfGQ" position="90.0,-63.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_8DPvIMuPEeyqwdzsT2CfGQ" containment="_CowOEMuREeyqwdzsT2CfGQ" containments="_MTP9csuREeyqwdzsT2CfGQ _MThDMMuREeyqwdzsT2CfGQ _MTqNIMuREeyqwdzsT2CfGQ _MT4PkMuREeyqwdzsT2CfGQ" classes="_MTd_4MuREeyqwdzsT2CfGQ _MTnJ0MuREeyqwdzsT2CfGQ _MT0lMMuREeyqwdzsT2CfGQ _MUCAkMuREeyqwdzsT2CfGQ" name="Entity" nestingPackage="_CozRYMuREeyqwdzsT2CfGQ">
+    <modelElement href="Nursery.uml#_2X5V4MuPEeyqwdzsT2CfGQ"/>
+    <visualProperties xmi:id="_8DPvIcuPEeyqwdzsT2CfGQ" position="-111.0,63.0" size="-1.0,-1.0"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
